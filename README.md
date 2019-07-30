@@ -1,4 +1,6 @@
-# pytorch-gan\
+# pytorch-gan
+ * wgan-gp (WGAN with Gradient Penalty)
+
 # Reference Links
 - [https://github.com/kuc2477/pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)
 - [https://github.com/caogang/wgan-gp](https://github.com/caogang/wgan-gp)
