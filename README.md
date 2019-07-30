@@ -1,5 +1,5 @@
 # pytorch-gan
- * wgan-gp (WGAN with Gradient Penalty)
+ * wgan-gp (WGAN with Gradient Penalty) using resnet Architecture
 
 # Reference Links
 - [https://github.com/kuc2477/pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)
