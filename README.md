@@ -17,7 +17,7 @@
 - [https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
 
 ## pix2pix
- - paper : [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
+ - [paper](https://arxiv.org/pdf/1611.07004.pdf)
  - [https://github.com/phillipi/pix2pix](https://github.com/phillipi/pix2pix)
  - https://neurohive.io/en/popular-networks/pix2pix-image-to-image-translation/
  - [https://towardsdatascience.com/cyclegans-and-pix2pix-5e6a5f0159c4](https://towardsdatascience.com/cyclegans-and-pix2pix-5e6a5f0159c4)
