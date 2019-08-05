@@ -5,6 +5,7 @@
 # Reference Links
 
 ## wgan-gp
+- [paper](https://arxiv.org/abs/1704.00028)
 - [https://github.com/kuc2477/pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)
 - [https://github.com/caogang/wgan-gp](https://github.com/caogang/wgan-gp)
 - [https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Pytorch](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Pytorch)
