@@ -1,5 +1,6 @@
 # pytorch-gan
  * wgan-gp (WGAN with Gradient Penalty) using resnet Architecture
+ * pix2pix (working on it..)
 
 # Reference Links
 - [https://github.com/kuc2477/pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)
