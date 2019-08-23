@@ -1,5 +1,7 @@
 # pytorch-gan
  * wgan-gp (WGAN with Gradient Penalty) using resnet Architecture
+    * wgan-gp with Layer Conditional 
+    * wgan-gp with Auxiliary Classifier
  * pix2pix (working on it..)
 
 # Reference Links
