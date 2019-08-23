@@ -4,6 +4,9 @@
 
 # Reference Links
 
+## Conditional GAN
+- [https://github.com/jalola/improved-wgan-pytorch/blob/master/models/conwgan.py](https://github.com/jalola/improved-wgan-pytorch/blob/master/models/conwgan.py)
+
 ## wgan-gp
 - [paper](https://arxiv.org/abs/1704.00028)
 - [https://github.com/kuc2477/pytorch-wgan-gp](https://github.com/kuc2477/pytorch-wgan-gp)
